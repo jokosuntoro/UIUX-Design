@@ -1,3 +1,3 @@
 # uiux-design
 
-![img.png](../image/dt-belajardataid.png)
+![img.png](https://github.com/jokosuntoro/uiux-design/blob/main/image/dt-belajardataid.png)
